@@ -8,6 +8,9 @@ const NewTodoForm = ({ value, updateText, handleAction }) => {
       />
       <button onClick={handleAction}>Add todo</button>
     </label>
+
+
+
   );
 };
 
